@@ -1,2 +1,5 @@
-package com.test;public class test {
+package com.test;
+
+public class test {
+
 }
